@@ -50,4 +50,4 @@ Enjoy
 
 ## Kudos
 Thanks to Zer0xFF for finding the right icc cmd to change the threshold temperature
-and a shuffle2 for the patch to expose the icc to usermode.
+and to shuffle2 for the patch to expose the icc to usermode.
