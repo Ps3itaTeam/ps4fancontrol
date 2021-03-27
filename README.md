@@ -21,7 +21,7 @@ The selected temperature will be saved in a config file and loaded when ps4fanco
 If you want load automatically ps4fancontrol at boot of your distro just put
 ```
 ps4fancontrol --no-gui
-``
+```
 in a unit configuration file: https://wiki.archlinux.org/index.php/Systemd#Writing_unit_files or use crontab or similar..
 
 ## Arch Linux users
