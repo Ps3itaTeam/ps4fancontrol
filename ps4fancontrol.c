@@ -10,7 +10,6 @@
 #include <errno.h>
 #include <pwd.h>
 #include <unistd.h>
-#include <pwd.h>
 #include <sys/sysmacros.h>
 #include "forms.h"
 
